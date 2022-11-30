@@ -2,6 +2,6 @@ build.xml
 build
 manifest.mf
 nbproject
-src
 .idea/
 ServerChat.iml
+out
